@@ -29,7 +29,9 @@ namespace gitTest1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("33Test");
+
+            this.label1.Text = "33333";
+
         }
     }
 }
